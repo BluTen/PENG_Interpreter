@@ -1,0 +1,17 @@
+hello_message is "Hi Welcome to PENG Interpreter"
+
+num1 is 20
+num2 is 10
+
+sum is num1 + num2
+diff is num1 - num2
+prod is num1 * num2
+div is num1 / num2
+
+say hello_message
+say "Num1 =", num1
+say "Num2 =", num2
+say "sum =", sum
+say "Difference =", diff
+say "Product =", prod
+say "divident =", div
