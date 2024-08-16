@@ -1,4 +1,4 @@
-# PENG Interpreter v0.1.0
+# PENG Interpreter v0.2.0
 An Interpreter made for my custom language PENG(Programming ENGlish) in Python for **FUN**
 
 ## How to use?
@@ -7,7 +7,7 @@ An Interpreter made for my custom language PENG(Programming ENGlish) in Python f
 3. Open the desktop folder
 4. Create a file with '.peng' as the extension
 5. Open it using notepad or any editor
-6. Write `say "Hello World"` and save
+6. Write `say "Hello World".` (with the little full stop at the end because English sentences end with that) and save
 7. In the desktop folder click on the file path and type 'cmd'
 8. Now type `peng code_file` where code_file is the name of your file with extension
 9. There you go you have written the first line of code in my language 👍
@@ -18,9 +18,11 @@ Datatypes available :-
 - Float   `23.4`
 - String  `"A String"`
 
-`text1 is "Hello "`     Variable declaration
+`text1 is "Hello ".`     Variable declaration
 
-`say text1, 123, 43.7`  Print values into terminal
+`say text1, 123, 43.7.`  Print values into terminal
+
+`# for comments works both in new line and inline`     Comments
 
 ## Where to report issues?
 Report the issues in [issues](https://github.com/BluTen/PENG_Interpreter/issues/new)
