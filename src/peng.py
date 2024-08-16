@@ -4,7 +4,7 @@ from core.interpreter import Interpreter, Context, SymbolTable
 from core.lexer import Lexer
 from core.parser import Parser
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
 
 def compile_and_run(code_source, file_name, context=None, verbose=False):
