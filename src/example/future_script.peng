@@ -1,0 +1,22 @@
+say "Hi".
+
+index is 0.
+
+if index is 1:
+    say "index is 1".
+or if index is not 1 do:
+    index is 1:
+    say "index is not 1".
+or if index is > 1:
+    index is 0.
+    say "index is greater than 1".
+or else:
+    index is 0.
+    say "index is lesser than 1".
+
+index is 10.
+
+repeat:
+    say "index is not 0".
+    index is index - 1.
+as long as index is not 0.

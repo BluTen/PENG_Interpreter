@@ -1,7 +1,8 @@
 expression          : "\n"
-                    : "say" statement(, statement)* "\n"
-                    : IDENTIFIER "is" statement "\n"
+                    : "say" statement(, statement)* ".\n"
+                    : IDENTIFIER "is" statement ".\n"
                     : expression
+                    : "if" statement"," expression
 
 statement           : math_op1
 
