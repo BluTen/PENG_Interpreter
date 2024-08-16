@@ -2,7 +2,7 @@
 An Interpreter made for my custom language PENG(Programming ENGlish) in Python for **FUN**
 
 ## How to use?
-1. Download the executable [here](https://github.com/BluTen/PENG_Interpreter/releases/download/v0.1.0-beta/peng.exe)
+1. Download the executable from the latest version [here](https://github.com/BluTen/PENG_Interpreter/releases/)
 2. Copy it to desktop for more easier experience
 3. Open the desktop folder
 4. Create a file with '.peng' as the extension
